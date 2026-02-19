@@ -7,7 +7,7 @@
 }
 body{
     display:flex;
-    background-color:skyblue;
+    background-color:blue;
     font-family: Arial;
     height:100vh;
     align-items: center;
@@ -64,3 +64,4 @@ body{
     height: 2px;
 
 }
+
